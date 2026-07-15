@@ -3,7 +3,7 @@
 An interactive Power BI dashboard designed to monitor insurance performance, track key KPIs (e.g., Claim Ratio, Premium Growth), and identify operational risk trends.
 
 ## 📊 Dashboard Preview
-![Dashboard Preview](https://github.com/rehamdata/Insurance-Analytics-Dashboard/blob/main/Insurance-dashboard_screenshot.png)
+![Dashboard Preview](https://github.com/rehamdata/Insurance-Analytics-Dashboard/blob/main/Insurance_dashboard_screenshot.png)
 
 ## 🚀 Key Features
 - **KPI Monitoring:** Tracks essential insurance metrics such as Claim Ratio and Premium Growth.
